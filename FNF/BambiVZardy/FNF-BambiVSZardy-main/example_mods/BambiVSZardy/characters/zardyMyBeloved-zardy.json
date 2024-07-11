@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle copy",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				-26
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing Down copy",
+			"indices": []
+		},
+		{
+			"offsets": [
+				130,
+				5
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing Left copy",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-65,
+				-5
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing Right copy",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-120,
+				81
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing Up copy",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-120,
+				81
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Sing Up miss"
+		},
+		{
+			"offsets": [
+				-2,
+				-26
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Sing Down miss"
+		},
+		{
+			"offsets": [
+				130,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Sing Left miss"
+		},
+		{
+			"offsets": [
+				-65,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Sing Right miss"
+		},
+		{
+			"offsets": [
+				130,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "DODGE"
+		},
+		{
+			"offsets": [
+				130,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "DODGE"
+		},
+		{
+			"offsets": [
+				130,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "DODGE"
+		},
+		{
+			"offsets": [
+				130,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "DODGE"
+		},
+		{
+			"offsets": [
+				130,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "dodge",
+			"loop": false,
+			"name": "DODGE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ZvB_ZardyRemaster_Plus_2",
+	"position": [
+		-10,
+		10
+	],
+	"healthicon": "zardyMyBeloved",
+	"flip_x": false,
+	"healthbar_colors": [
+		186,
+		123,
+		66
+	],
+	"camera_position": [
+		30,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

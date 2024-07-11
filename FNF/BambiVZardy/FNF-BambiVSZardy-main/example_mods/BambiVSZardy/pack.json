@@ -1,0 +1,7 @@
+{
+	"name": "Bambi VS Zardy",
+	"description": "A one shot mod where Zardy tries to take over Bambi's farm so they have to do a stupid rap-battle.",
+	"restart":true,
+	"runsGlobally": false,
+	"color": [210, 105, 30]
+}

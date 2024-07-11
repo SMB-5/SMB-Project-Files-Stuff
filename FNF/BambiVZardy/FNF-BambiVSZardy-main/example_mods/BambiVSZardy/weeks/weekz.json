@@ -1,0 +1,31 @@
+{
+	"storyName": "Bambi VS Zardy",
+	"difficulties": "Bambi, Zardy",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Larceny",
+			"zardymybeloved",
+			[
+				210,
+				105,
+				30
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "weekZ"
+}

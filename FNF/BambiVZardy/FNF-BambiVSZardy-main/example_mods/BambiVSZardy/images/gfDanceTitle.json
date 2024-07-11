@@ -1,0 +1,10 @@
+{	
+	"titlex":210,
+	"titley":50,
+	"startx":130,
+	"starty":576,
+	"gfx":512,
+	"gfy":40,
+	"backgroundSprite":"cornfield-night",
+	"bpm":102
+}

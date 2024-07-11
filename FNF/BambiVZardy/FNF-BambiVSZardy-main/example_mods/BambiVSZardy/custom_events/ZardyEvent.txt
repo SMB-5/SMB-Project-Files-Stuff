@@ -1,0 +1,2 @@
+When the event is triggered player will
+be stunned, unable to hit keys.
