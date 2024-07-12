@@ -1,0 +1,8 @@
+this was a scrapped creepypasta arg thing inspired by psych engine restored by NotMagniill. This was designed to be a lost update to kade engine however I couldn't really come up with many ideas to make it scary so it's just a modified version of kade engine 1.8 don't worry there's nothing scary in there. Anyway here is what I added to this build:
+-fps text say's kade engine 1.9 debug
+-freeplay colours
+-a very unfinished week 7
+-note splashes
+-unused combo sprite appears when you get a combo higher than 10
+
+I may have missed something but that's what I remember adding
